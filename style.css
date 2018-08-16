@@ -1,0 +1,9 @@
+.navigation {
+  margin: auto;
+  background-color: black;
+}
+.nav-items {
+  margin: auto;
+  width: 50%;
+  padding-left: 100px;
+}
